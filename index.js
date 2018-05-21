@@ -1,2 +1,1 @@
-function theBeatlesPlay(musicians, instruments) {
-  const arr = []
+function theBeatlesPlay(musicians, instruments)
