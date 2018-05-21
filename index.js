@@ -1,2 +1,2 @@
-unction theBeatlesPlay(musicians, instruments) {
+function theBeatlesPlay(musicians, instruments) {
   const arr = []
